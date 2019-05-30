@@ -144,7 +144,7 @@
       shutdownDevice() {
         MessageBox({
           title: 'tips',
-          message: 'do you wante to shutdown?',
+          message: 'do you want to shutdown?',
           showCancelButton: true,
           confirmButtonText: "yes",
           cancelButtonText: "cancel",
