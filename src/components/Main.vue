@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <div class="logo"><img src="/static/img/logo.png"/></div>
+    <!--<div class="logo"><img src="/static/img/logo.png"/></div>-->
 
     <div class="home-info">
       <div class="info-header">
@@ -60,13 +60,12 @@
 
     </div>
 
-    <div style="margin-top: 10px">
+    <!--<div style="margin-top: 10px">
       <p>Global WiFi Customer Service(24 hours)</p>
       <p>TEL(from overseas):+86-50-5840-9686</p>
       <p>TEL(from Japan):0120-510-670</p>
       <p>E-mail:info@townwifi.com</p>
-
-    </div>
+    </div>-->
 
     <div class="float-btn" @click="shutdownDevice()" hidden><img src="/static/img/shutdown.png"/></div>
   </div>
